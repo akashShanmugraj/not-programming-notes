@@ -7,8 +7,8 @@ Unit 1:
 
 Unit 2:
 - [x] Types of requirements
-- [ ] Problems based on function points
-- [ ] Problems based on COCOMO model
+- [x] Problems based on function points
+- [x] Problems based on COCOMO model
 - [x] Requirement Engineering Process (if question is not specific then provide equal importance to all the sub-divisions and write about all three)
 	- [x] Requirement Elicitation Process - 10m
 	- [x] Requirement Validation Process - 5m
@@ -16,27 +16,30 @@ Unit 2:
 - [ ] SRS
 
 Unit 3:
-- [ ] Design Concepts (3 questions for 5 marks / 5 questions for 10 marks)
-- [ ] Cohesion and it's types
-- [ ] Coupling and it's types
-- [ ] Architectural Styles in detail
+- [x] Design Concepts (3 questions for 5 marks / 5 questions for 10 marks)
+- [x] Cohesion and it's types
+- [x] Coupling and it's types
+- [x] Architectural Styles in detail
 - [ ] Explain FURPS (5M)
-- [ ] Identify FURPS (5M)
-- [ ] Explain User Interface Design (10M)
+- [x] Identify FURPS (5M)
+- [x] Explain User Interface Design (10M)
 - [ ] UID with problem statement (10)
 - [ ] Data Flow Diagram
 
 Unit 4:
 - [ ] White Box Testing
-- [ ] Black Box Testing
-- [ ] Testing Strategies
-- [ ] Unit Testing (5M)
-- [ ] Calculating Cyclomatic Complexity (IMP)
+- [x] Black Box Testing
+- [x] Testing Strategies
+- [x] Unit Testing (5M)
+- [x] Calculating Cyclomatic Complexity (IMP)
   
 Unit 5:
 - [x] Defect removal efficiency - 5m
 - [x] Cost of quality - 5m
-- [ ] Formal technical review - scenario will be given - write about formal technical review and then write stuff related to the scenario - 10m
+- [x] Formal technical review - scenario will be given - write about formal technical review and then write stuff related to the scenario - 10m
 - [ ] Software configuration management
 
 Note: Scenario based questions will be predominant
+
+Extra checklist:
+- [ ] Identifying Coupling and/or Cohesion based on code / statement  
