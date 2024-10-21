@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>18.404J F2020 Problem Set 1</title>
+      <link>/resources/mit18_404f20_hw1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw1/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.404J F2020 Problem Set 2</title>
+      <link>/resources/mit18_404f20_hw2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw2/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.404J F2020 Problem Set 3</title>
+      <link>/resources/mit18_404f20_hw3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw3/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.404J F2020 Problem Set 4</title>
+      <link>/resources/mit18_404f20_hw4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw4/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.404J F2020 Problem Set 5</title>
+      <link>/resources/mit18_404f20_hw5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw5/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18.404J F2020 Problem Set 6</title>
+      <link>/resources/mit18_404f20_hw6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_404f20_hw6/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>All problems are from the 2nd edition of the textbook:
+Sipser, Michael. Introduction to the Theory of Computation. 2nd ed. Boston, MA: Thomson Course Technology, 2006. ISBN: 0534950973.
+Errata for 2nd edition of textbook.
+Problem Set 1 (PDF)
+Problem Set 2 (PDF)
+Problem Set 3 (PDF)
+Problem Set 4 (PDF)
+Problem Set 5 (PDF)
+Problem Set 6 (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

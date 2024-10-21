@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction, Finite Automata, Regular Expressions</title>
+      <link>/resources/introduction-finite-automata-regular-expressions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/introduction-finite-automata-regular-expressions/data.json</guid>
+      <description>Description: Introduction; course outline, mechanics, and expectations. Described finite automata, their formal definition, regular languages, regular operations, and regular expressions. Proved that the class of regular languages is closed under ⋃. Started proving closure under ◦.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Computation History Method</title>
+      <link>/resources/lecture-10-computation-history-method/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-10-computation-history-method/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Defined configurations and computation histories. Gave the computation history method to prove undecidability. Showed that \(A_\bf{LBA}\) is decidable; \(E_\bf{LBA}\), \(PCP\), and \(ALL_\bf{CFG}\) are undecidable.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Recursion Theorem and Logic</title>
+      <link>/resources/lecture-11-recursion-theorem-and-logic/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-11-recursion-theorem-and-logic/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Discussed self-reference and the recursion theorem. Gave various applications. Sketched Gödel’s first incompleteness theorem in mathematical logic.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12: Time Complexity</title>
+      <link>/resources/lecture-12-time-complexity/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-12-time-complexity/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Gave an introduction to complexity theory. Discussed limited complexity model-dependence for reasonable models. Defined TIME\((t(n))\) complexity classes and the class P. Showed that \(PATH\) ∈ P.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: P and NP, SAT, Poly-Time Reducibility</title>
+      <link>/resources/lecture-14-p-and-np-sat-poly-time-reducibility/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-14-p-and-np-sat-poly-time-reducibility/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Defined NTIME\((t(n))\) complexity classes and the class NP. Showed \(COMPOSITES\) ∈ NP. Discussed the P versus NP question. Proved \(A\)CFG ∈ P. Introduced the satisfiability problem \(SAT\) and polynomial-time reducibility.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: NP-Completeness</title>
+      <link>/resources/lecture-15-np-completeness/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-15-np-completeness/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Covered NP-completeness; \(SAT\) and \(3SAT\); \(3SAT\) ≤\(_P\) \(HAMPATH\); and \(3SAT\) ≤\(_P\) \(CLIQUE\). Discussed a strategy for proving NP-completeness with a reduction from \(3SAT\) by constructing gadgets that simulate variables and clauses.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Cook-Levin Theorem</title>
+      <link>/resources/lecture-16-cook-levin-theorem/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-16-cook-levin-theorem/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Proved Cook-Levin Theorem: \(SAT\) is NP-complete. Also proved \(3SAT\) is NP-complete.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Space Complexity, PSPACE, Savitch&#39;s Theorem</title>
+      <link>/resources/lecture-17-space-complexity-pspace-savitchs-theorem/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-17-space-complexity-pspace-savitchs-theorem/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Introduced space complexity. Defined SPACE\((f(n))\), NSPACE\((f(n))\), PSPACE, and NPSPACE. Proved \(TQBF\) ∈ PSPACE, \(LADDER_\bf{DFA}\) ∈ NSPACE(\(n\)), and \(LADDER_\bf{DFA}\) ∈ SPACE(\(n^2\)).
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18: PSPACE-Completeness</title>
+      <link>/resources/lecture-18-pspace-completeness/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-18-pspace-completeness/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Proved Savitch’s Theorem: NSPACE\((f(n))\) ⊆ SPACE\((f^2 (n))\). Also proved PSPACE-completeness and \(TQBF\) is PSPACE-complete.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19: Games, Generalized Geography</title>
+      <link>/resources/lecture-19-games-generalized-geography/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-19-games-generalized-geography/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Discussed a connection between games and quantifiers. Described the formula game and showed that generalized geography is PSPACE-complete. Introduced log space: L and NL. Defined the configuration graph to prove NL ⊆ P.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Nondeterminism, Closure Properties, Regular Expressions → Finite Automata</title>
+      <link>/resources/nondeterminism-closure-properties-regular-expressions-2192-finite-automata/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/nondeterminism-closure-properties-regular-expressions-2192-finite-automata/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Introduced nondeterministic finite automata (NFA). Proved that NFA and DFA are equivalent in power. Proved that the class of regular languages is closed under ◦, ∗. Showed conversion of regular expressions to NFAs.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 20: L and NL, NL = coNL</title>
+      <link>/resources/lecture-20-l-and-nl-nl-conl/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-20-l-and-nl-nl-conl/data.json</guid>
+      <description>Description: Reviewed \(\log\) space: NL ⊆ SPACE\((\log^2n)\) and NL ⊆ P. Introduced log-space transducers and log-space reducibility. Defined NL-completeness. Proved that \(PATH\) is NL-complete and \(\overline{2SAT}\) is NL-complete. Proved the Immerman-Szelepcsényi theorem: NL = coNL.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Hierarchy Theorems</title>
+      <link>/resources/lecture-21-hierarchy-theorems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-21-hierarchy-theorems/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Finished Immerman-Szelepcsényi theorem: NL = coNL. Introduced and proved the time and space hierarchy theorems. Discussed using the hierarchy theorems to separate certain complexity classes.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22: Provably Intractable Problems, Oracles</title>
+      <link>/resources/lecture-22-provably-intractable-problems-oracles/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-22-provably-intractable-problems-oracles/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Introduced exponential complexity classes and demonstrated a “natural” provably intractable problem. Introduced oracles and relativized computation to suggest that pure diagonalization-based methods cannot separate P and NP.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23: Probabilistic Computation, BPP</title>
+      <link>/resources/lecture-23-probabilistic-computation-bpp/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-23-probabilistic-computation-bpp/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Defined probabilistic Turing machines and the class BPP. Sketched the amplification lemma. Introduced branching programs and read-once branching programs. Started the proof that \(EQ\)ROBP ∈ BPP. Introduced the arithmetization method.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 24: Probabilistic Computation (cont.)</title>
+      <link>/resources/lecture-24-probabilistic-computation-cont/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-24-probabilistic-computation-cont/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Simulated read-once branching programs by polynomials. Gave a probabilistic polynomial equality testing method. Concluded proving \(EQ\)ROBP ∈ BPP.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 25: Interactive Proof Systems, IP</title>
+      <link>/resources/lecture-25-interactive-proof-systems-ip/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-25-interactive-proof-systems-ip/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Introduced the interactive proof system model. Defined the class IP. Showed \(\overline{ISO}\) ∈ IP. Started showing #\(SAT\) ∈ IP to prove that coNP ⊆ IP.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 26: coNP ⊆ IP</title>
+      <link>/resources/lecture-26-conp-2286-ip/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-26-conp-2286-ip/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Discussed the arithmetization of Boolean formulas. Finished the theorem: #\(SAT\) ∈ IP and concluded that coNP ⊆ IP.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Regular Pumping Lemma, Finite Automata → Regular Expressions, CFGs</title>
+      <link>/resources/regular-pumping-lemma-finite-automata-2192-regular-expressions-cfgs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/regular-pumping-lemma-finite-automata-2192-regular-expressions-cfgs/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Showed conversion of DFAs to regular expressions. Gave a method for proving languages not regular by using the pumping lemma and closure properties. Introduced context free grammars (CFGs).
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Pushdown Automata, CFG ↔ PDA</title>
+      <link>/resources/pushdown-automata-cfg-2194-pda/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pushdown-automata-cfg-2194-pda/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Defined context free grammars (CFGs) and context free languages (CFLs). Defined pushdown automata (PDA). Gave conversion of CFGs to PDAs. Stated the reverse conversion without proof.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: CF Pumping Lemma, Turing Machines</title>
+      <link>/resources/cf-pumping-lemma-turing-machines/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/cf-pumping-lemma-turing-machines/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Proved the CFL pumping lemma as a tool for showing that languages are not context free. Defined Turing machines (TMs). Defined TM deciders (halt on all inputs).
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: TM Variants, Church-Turing Thesis</title>
+      <link>/resources/tm-variants-church-turing-thesis/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/tm-variants-church-turing-thesis/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Showed that various TM variants are all equivalent to the single-tape model. Discussed the Church-Turing Thesis: Turing machines are equivalent to “algorithms” and model-independence. Introduced notation for encoding objects and describing TMs.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Decision Problems for Automata and Grammars</title>
+      <link>/resources/decision-problems-for-automata-and-grammars/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/decision-problems-for-automata-and-grammars/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Showed the decidability of various problems about automata and grammars: \(A\)DFA, \(A\)NFA, \(E\)DFA, \(EQ\)DFA, and \(A\)CFG. Also showed that \(A\)TM is T-recognizable.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Undecidability</title>
+      <link>/resources/lecture-8-undecidability/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-8-undecidability/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Showed that \(\mathbb{N}\) and \(\mathbb{R}\) are not the same size to introduce the diagonalization method and used it to prove \(A_\bf{TM}\) is undecidable. Introduced the reducibility method to show that \(HALT_\bf{TM}\) is undecidable.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Reducibility</title>
+      <link>/resources/lecture-9-reducibility/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-9-reducibility/data.json</guid>
+      <description>Description: Quickly reviewed last lecture. Discussed the reducibility method to prove undecidability and T-unrecognizability. Defined mapping reducibility as a type of reducibility. Showed that \(E_\bf{TM}\) is undecidable and T-unrecognizable; \(EQ_\bf{TM}\) and \(\overline{EQ_\bf{TM}}\) are T-unrecognizable.
+Instructor: Prof. Michael Sipser</description>
+    </item>
+    
+    <item>
+      <title>Video Lectures</title>
+      <link>/video_galleries/video-lectures/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video_galleries/video-lectures/data.json</guid>
+      <description>There is no video for Lecture 13 as that was the day for the Midterm Exam.
+Lecture 1: Introduction, Finite Automata, Regular Expressions Lecture 2: Nondeterminism, Closure Properties, Regular Expressions → Finite Automata Lecture 3: Regular Pumping Lemma, Finite Automata → Regular Expressions, CFGs Lecture 4: Pushdown Automata, CFG ↔ PDA Lecture 5: CF Pumping Lemma, Turing Machines Lecture 6: TM Variants, Church-Turing Thesis Lecture 7: Decision Problems for Automata and Grammars Lecture 8: Undecidability Lecture 9: Reducibility Lecture 10: Computation History Method Lecture 11: Recursion Theorem and Logic Lecture 12: Time Complexity Lecture 14: P and NP, SAT, Poly-Time Reducibility Lecture 15: NP-Completeness Lecture 16: Cook-Levin Theorem Lecture 17: Space Complexity, PSPACE, Savitch&amp;#39;s Theorem Lecture 18: PSPACE-Completeness Lecture 19: Games, Generalized Geography Lecture 20: L and NL, NL = coNL Lecture 21: Hierarchy Theorems Lecture 22: Provably Intractable Problems, Oracles Lecture 23: Probabilistic Computation, BPP Lecture 24: Probabilistic Computation (cont.</description>
+    </item>
+    
+  </channel>
+</rss>
